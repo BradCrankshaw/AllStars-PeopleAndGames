@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GamesForImpact.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7931A115-6529-448E-9DFB-7AE370FC0448}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GamesForImpact.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GamesForImpactEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E223D98C-9218-48B0-87AD-22688F161000}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GamesForImpact">
+			<UniqueIdentifier>{9E4FE194-DBE9-4CF9-9F64-96836A081754}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GamesForImpact\GamesForImpact.Build.cs">
+			<Filter>Source\GamesForImpact</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GamesForImpact\GamesForImpact.cpp">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GamesForImpact\GamesForImpact.h">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GamesForImpact\GamesForImpactCharacter.cpp">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GamesForImpact\GamesForImpactCharacter.h">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GamesForImpact\GamesForImpactGameMode.cpp">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GamesForImpact\GamesForImpactGameMode.h">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GamesForImpact\GamesForImpactPlayerController.cpp">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GamesForImpact\GamesForImpactPlayerController.h">
+			<Filter>Source\GamesForImpact</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

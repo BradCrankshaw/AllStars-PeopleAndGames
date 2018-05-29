@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GamesForImpact.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpact.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactCharacter.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactGameMode.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactPlayerController.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpact.init.gen.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactCharacter.gen.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactGameMode.gen.cpp.obj"
+"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\GamesForImpactPlayerController.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\GamesForImpact\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"H:\Games For Impact\GamesForImpact\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GamesForImpact.lib"
